@@ -148,3 +148,5 @@ You are done but sort of, your MR is merged but it is important to keep an eye o
 }
 
 export function deactivate() {}
+
+export { showChecklist, getWebviewContent, checkGitStatus, interceptGitPush };
